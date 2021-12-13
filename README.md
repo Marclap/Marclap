@@ -24,6 +24,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hi, new here](https://dev.to/marclap/hi-new-here-588c)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
